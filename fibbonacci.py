@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 __author__ = "hero24"
 # Python 2 Memoization example:
-def fib(n,mem=[0,1,1]):
+def fib(n,mem=[0]):
     # Example of fibonacci sequence with use of memoization
     if n < len(mem):
         return mem[n]
