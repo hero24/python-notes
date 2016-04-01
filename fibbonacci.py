@@ -1,5 +1,6 @@
+#!/usr/bin/env python
+__author__ = "hero24"
 # Python 2 Memoization example:
-
 def fib(n,mem=[]):
     # Example of fibonacci sequence with use of memoization
     if n < len(mem):
