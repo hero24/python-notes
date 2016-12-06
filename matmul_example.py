@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
+# "Programs must be written for people to read, and only incidentally for machines to execute."
+#   ~ Harold Abelson
 __author__ = "hero24"
+
 # python 3.5 brings in a new operator @
 # its a matrix multuplier, and has no use in
 # python standard library.
