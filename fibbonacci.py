@@ -1,5 +1,7 @@
 #!/usr/bin/env python
 __author__ = "hero24"
+# "Unless you know the code, it has no meaning." ~ John Connolly
+
 # Python 2 Memoization example:
 def fib(n,mem=[0]):
     # Example of fibonacci sequence with use of memoization
