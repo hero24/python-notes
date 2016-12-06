@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# "Life would be much easier if I had the source code" ~ Unknown
 __author__ = "hero24"
 # This is only an example of how to use built-in Python regular expression module!
 # Regexp example:
